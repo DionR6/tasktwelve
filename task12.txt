@@ -1,0 +1,5 @@
+1. Login to cloud VM in the kali linux terminal.
+2. Git clone the repository.
+3. Copy the files to /var/www/html
+4. Start the apache service with the command "sudo service apache2 start"
+5. Type the cloud VM IP in a local browser to accrss the VM
